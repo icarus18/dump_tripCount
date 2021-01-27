@@ -1,0 +1,2 @@
+# dump_trip Count
+ This code is a program that allows a user to enter float values between 1.000 and 3.000.This program identifies a scenario where each value represents the weight of a bag, and a worker can only carry a max of 3 lbs at a time.With n number of bags present in an array weighted the value entered x, how man trips would it take for him or her to carry all bags to a dumpster.
